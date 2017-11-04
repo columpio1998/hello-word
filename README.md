@@ -1,2 +1,3 @@
 # hello-word
-repository
+ repository
+aprendo sobre bitcoin
